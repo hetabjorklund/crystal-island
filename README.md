@@ -1,12 +1,12 @@
 <p align="center">
-<img src="Images/header.png" width="80%">
+<img src="Images/header.png" width="100%">
 </p>
 
 # Crystal Island
 
-Crystal Island is a first-person 3D game where your goal is to collect all the crystals hidden around the island.
+*Crystal Island* is a first-person 3D game where your goal is to collect all the crystals hidden around a mystical island.
 
-Start the game by opening the *Crystal Island.exe* file. Don't move the .exe file from the folder - there are hidden files included in the folder that are required for the .exe file to work.
+You can download the game from [Itch](https://hetabjorklund.itch.io/crystal-island). Start the game by opening the *Crystal Island.exe* file. Don't move the .exe file from the folder - there are hidden files included in the folder that are required for the .exe file to work.
 
 # How to play
 * Press any key to continue on to the game or press ESC to quit.
@@ -15,6 +15,7 @@ Start the game by opening the *Crystal Island.exe* file. Don't move the .exe fil
 * Collect a crystal by walking towards it. Try to collect all the crystals!
 * Avoid the water: the player dies and the game ends if the player goes underwater.
 * There is no time limit or time bonus; you can just wander around the island and listen to the crickets if you wish.
+
 <p align="center">
 <img src="Images/screenshot_1.png" width="30%">
 <img src="Images/screenshot_2.png" width="30%">
@@ -26,7 +27,7 @@ Start the game by opening the *Crystal Island.exe* file. Don't move the .exe fil
 
 # Creator
 Heta Björklund
- * Github: https://github.com/hetabjorklund
+ * GitHub: https://github.com/hetabjorklund
  * LinkedIn: https://www.linkedin.com/in/heta-bjorklund
 
 # Acknowledgements
