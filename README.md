@@ -6,15 +6,23 @@
 
 Crystal Island is a first-person 3D game where your goal is to collect all the crystals hidden around the island.
 
-You can download the game file from [Dropbox](https://www.dropbox.com/sh/bacs7hrtvnvpxym/AABQsU4aIlpHEG5OZmXHa9NEa?dl=0). Download the whole folder and don't move the .exe file from the folder - it needs to remain in the same folder with all the other files in order to work.
+Start the game by opening the *Crystal Island.exe* file. Don't move the .exe file from the folder - there are hidden files included in the folder that are required for the .exe file to work.
 
 # How to play
 * Press any key to continue on to the game or press ESC to quit.
 * Set your direction with the mouse.
 * Move forward, backward, left, and right with the arrow keys, jump with the space bar.
-* Collect all the crystals!
+* Collect a crystal by walking towards it. Try to collect all the crystals!
 * Avoid the water: the player dies and the game ends if the player goes underwater.
 * There is no time limit or time bonus; you can just wander around the island and listen to the crickets if you wish.
+<p align="center">
+<img src="Images/screenshot_1.png" width="30%">
+<img src="Images/screenshot_2.png" width="30%">
+<img src="Images/screenshot_3.png" width="30%">
+<img src="Images/screenshot_4.png" width="30%">
+<img src="Images/screenshot_5.png" width="30%">
+<img src="Images/screenshot_6.png" width="30%">
+</p>
 
 # Creator
 Heta Björklund
